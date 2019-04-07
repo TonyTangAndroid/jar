@@ -35,7 +35,7 @@ dependencies {
     api 'com.jakewharton.rx2:replaying-share:2.1.1'
 
     //dagger
-    api 'com.google.dagger:dagger:2.21'
+    api 'com.google.dagger:dagger:2.22.1'
 
     testImplementation 'junit:junit:4.12'
 
